@@ -1,0 +1,7 @@
+Liste Nomerat baraye azmon: 1
+---------------------------
+Name:  | ID: 2 | Nomre: 1
+Name: 3 | ID: 3 | Nomre: 0
+---------------------------
+Bishine nomre: 1
+Miyangin nomarat: 0.5

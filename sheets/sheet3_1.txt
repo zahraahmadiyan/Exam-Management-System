@@ -1,0 +1,15 @@
+Soal 1: r
+Noe: 4-gozine-i
+Pasokh dorost: 4
+Pasokh shoma: 3
+Vaziyat:false
+Soal 2: r
+Noe: Kootah-pasokh
+Pasokh dorost: r
+Pasokh shoma: 5
+Vaziyat:false
+Soal 3: rr
+Noe: Tashrihi
+Pasokh pishnahadi: rr
+Pasokh shoma: 5
+Vaziyat: be dast-e ostad tas'hih mishavad.
